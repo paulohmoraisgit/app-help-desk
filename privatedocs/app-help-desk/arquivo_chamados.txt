@@ -1,0 +1,6 @@
+3|Chamado Jose Vieira 1|Hardware|Problema com Hardware 1
+3|Chamado Jose Vieira 2|Rede|Minha internet caiu e não voltou mais!
+2|Chamado Maria Joaquina 1|Impressora|Problema na impressora 1
+2|Chamado Maria Joaquina 2|Software|Problema com computador travando 1
+2|Chamado Maria Joaquina 3|Rede|Problema com internet lenta 1
+3|Chamado Jose Vieira 3|Impressora|Problema com impressora não funcionando 1
